@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="file:///C:/Users/maria/Downloads/ezgif.com-animated-gif-maker.gif"  />
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/87f4da9e-3f11-4c5d-aa86-281ebf98d535)
 
 ###
 
@@ -44,9 +44,3 @@
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
