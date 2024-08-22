@@ -1,15 +1,14 @@
-<h2 align="left">Seja Bem Vindo!</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MarianaAkemi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarianaAkemi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/87f4da9e-3f11-4c5d-aa86-281ebf98d535)
+
 
 ###
 
